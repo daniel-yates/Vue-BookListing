@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <booklist></booklist>
+    <book-list></book-list>
   </div>
 </template>
 
